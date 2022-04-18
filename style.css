@@ -1,0 +1,78 @@
+.success, .error{
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success{
+    background: green;
+}
+
+
+.error{
+    background: red;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+label{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+
+input{
+    display: block;
+    padding: 20px;
+    width : 40%;
+    min-width: 350px;
+    margin: 0 auto;
+}
+
+
+.inputs{
+    margin: 40px;
+}
+
+
+.envoyer{
+    background: #040466;
+    color: white;
+    padding: 20px 50px;
+    font-size: 18px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.delete{
+    padding: 0px;
+    width: 30px;
+    height: 30px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+table{
+    width: 100%;
+}
+
+th{
+    width: 33%;
+}
+
+td{
+    text-align: center;
+}
